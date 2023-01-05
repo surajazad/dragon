@@ -1,0 +1,43 @@
+h1 {
+    span {
+        color: green;
+    }
+}
+
+.product-card {
+    margin-right: 4px;
+}
+
+.product-list {
+    display: flex;
+    padding: 8px;
+    overflow: scroll;
+    background-color: #ffffff;
+}
+
+span {
+    color: #221d1d;
+    font-weight: 200;
+    font-family: BentonSans,Helvetica,Arial,sans-serif;
+    font-size: 8px;
+    line-height: 12px;
+    letter-spacing: 0.04em;
+    display: block;
+}
+
+.product-image {
+    height: 130px;
+    background-color: #F7F7F8;
+    font-size: x-small;
+}
+
+.product-price {
+    font-weight: 700;
+    margin-bottom: 4px;
+    color: #605858;
+}
+
+.product-name {
+    color: #221d1d;
+}
+
