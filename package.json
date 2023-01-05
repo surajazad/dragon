@@ -2,16 +2,14 @@
   "name": "dragon",
   "version": "1.0.0",
   "description": "shark tank 1",
-  "main": "index.js",
+  "source": "src/index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "parcel serve src/index.html"
+    "build": "parcel build src/index.html"
   },
   "author": "suraj azad",
   "license": "ISC",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.2",
     "parcel": "^2.8.2"
-  },
-  "build": "parcel build index.html"
+  }
 }
