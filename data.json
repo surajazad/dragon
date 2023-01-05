@@ -1,0 +1,252 @@
+{
+	"bras": [{
+			"name": "The T-Shirt Bra",
+			"price": "29.50$",
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/10/5f/105f928ebcdf4e1c8b1aa3522beecfd2/1118862954A2_34DD_OM_F.jpg",
+			"url": "https://www.victoriassecret.com/us/vs/bras-catalog/5000000066?choice=54A2&genericId=11200918&limit=100&resultPosition=2&searchBrand=vs&searchedFor=T-shirt%20bra"
+		},
+		{
+			"name": "Sexy Tee Lacie",
+			"price": "22$",
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/9b/0b/9b0bd637bde0415cac36609e6393c9bf/1117408252A0_OM_F.jpg",
+			"url": ""
+		},
+		{
+			"name": "Love Cloud",
+			"price": "50$",
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/ce/2e/ce2eb480fc6a4d12b53ab9f363bdd82c/111888515OTW_OM_F.jpg",
+			"url": ""
+		},
+		{
+			"name": "Shiny Strap",
+			"price": "19$",
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/c6/b6/c6b611d8bd43499db069a53aa96d86f7/1120092586Q4_34DD_OM_F.jpg",
+			"url": ""
+		}
+	],
+	"redbras": [{
+		"name": "Red T-Shirt Bra",
+		"price": "29.50$",
+		"imagePath": "https://www.victoriassecret.com/p/126x168/tif/10/5f/105f928ebcdf4e1c8b1aa3522beecfd2/1118862954A2_34DD_OM_F.jpg",
+		"url": "https://www.victoriassecret.com/us/vs/bras-catalog/5000000066?choice=54A2&genericId=11200918&limit=100&resultPosition=2&searchBrand=vs&searchedFor=T-shirt%20bra"
+	},
+	{
+		"name": "Red Sexy Tee Lacie",
+		"price": "22$",
+		"imagePath": "https://www.victoriassecret.com/p/126x168/tif/9b/0b/9b0bd637bde0415cac36609e6393c9bf/1117408252A0_OM_F.jpg",
+		"url": ""
+	},
+	{
+		"name": "Red Love Cloud",
+		"price": "50$",
+		"imagePath": "https://www.victoriassecret.com/p/126x168/tif/ce/2e/ce2eb480fc6a4d12b53ab9f363bdd82c/111888515OTW_OM_F.jpg",
+		"url": ""
+	},
+	{
+		"name": "Red Shiny Strap",
+		"price": "19$",
+		"imagePath": "https://www.victoriassecret.com/p/126x168/tif/c6/b6/c6b611d8bd43499db069a53aa96d86f7/1120092586Q4_34DD_OM_F.jpg",
+		"url": ""
+	}
+	],
+	"panties": [{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		},
+		{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		},
+		{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		},
+		{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		}
+	],
+	"lingerie": [{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		},
+		{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		},
+		{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		},
+		{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		}
+	],
+	"vs": [{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		},
+		{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		},
+		{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		},
+		{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		}
+	],
+	"pink": [{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		},
+		{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		},
+		{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		},
+		{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		}
+	],
+	"beauty": [{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		},
+		{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		},
+		{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		},
+		{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		}
+	],
+	"sleepwear": [{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		},
+		{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		},
+		{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		},
+		{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		}
+	],
+	"valentine": [{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		},
+		{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		},
+		{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		},
+		{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		}
+	],
+	"gifts": [{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		},
+		{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		},
+		{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		},
+		{
+			"name": "",
+			"price": "",
+			"imagePath": "",
+			"url": ""
+		}
+	]
+}
