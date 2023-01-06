@@ -1,252 +1,446 @@
 {
-	"bras": [{
-			"name": "The T-Shirt Bra",
-			"price": "29.50$",
+	"bras": [
+		{
+			"id": "5000008470",
+			"url": "https://www.victoriassecret.com/us/vs/bras-catalog/5000008470?choice=2Y3B&genericId=11211803&limit=100&resultPosition=1&searchBrand=vs&searchedFor=bras",
+			"family": "Very Sexy",
+			"name": "So Obsessed Wireless Push-Up Bra",
+			"rating": 4.26,
+			"totalReviewCount": 358,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/8e/8d/8e8db43cfe5a4d8c9bb9aa97f57970f3/112118032Y3B_OM_F.jpg",
+			"price": "$49.95"
+		},
+		{
+			"id": "5000000002",
+			"url": "https://www.victoriassecret.com/us/vs/bras-catalog/5000000002?choice=4ZZS&genericId=11205777&limit=100&resultPosition=2&searchBrand=vs&searchedFor=bras",
+			"family": "Body by Victoria",
+			"name": "Lightly Lined Full Coverage Bra",
+			"rating": 4.18,
+			"totalReviewCount": 500,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/30/8d/308d640af2494848ad2a58ccb8a86503/111886294ZZS_36C_OM_F.jpg",
+			"price": "$49.95"
+		},
+		{
+			"id": "5000000002",
+			"url": "https://www.victoriassecret.com/us/vs/bras-catalog/5000000002?choice=54A2&genericId=11211705&limit=100&resultPosition=3&searchBrand=vs&searchedFor=bras",
+			"family": "Body by Victoria",
+			"name": "Lightly Lined Full-Coverage Bra",
+			"rating": 4.18,
+			"totalReviewCount": 500,
 			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/10/5f/105f928ebcdf4e1c8b1aa3522beecfd2/1118862954A2_34DD_OM_F.jpg",
-			"url": "https://www.victoriassecret.com/us/vs/bras-catalog/5000000066?choice=54A2&genericId=11200918&limit=100&resultPosition=2&searchBrand=vs&searchedFor=T-shirt%20bra"
+			"price": "$49.95"
 		},
 		{
-			"name": "Sexy Tee Lacie",
-			"price": "22$",
-			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/9b/0b/9b0bd637bde0415cac36609e6393c9bf/1117408252A0_OM_F.jpg",
-			"url": ""
+			"id": "5000008681",
+			"url": "https://www.victoriassecret.com/us/vs/bras-catalog/5000008681?choice=54A2&genericId=11207582&limit=100&resultPosition=4&searchBrand=vs&searchedFor=bras",
+			"family": "Victoria's Secret Bare",
+			"name": "Infinity Flex Push-Up Perfect Shape Bra",
+			"rating": 3.8,
+			"totalReviewCount": 81,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/79/bd/79bd28e6596f40b48df24bbabdf2d3f0/1120758254A2_OM_F.jpg",
+			"price": "$44.95"
 		},
 		{
-			"name": "Love Cloud",
-			"price": "50$",
-			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/ce/2e/ce2eb480fc6a4d12b53ab9f363bdd82c/111888515OTW_OM_F.jpg",
-			"url": ""
+			"id": "5000000022",
+			"url": "https://www.victoriassecret.com/us/vs/bras-catalog/5000000022?choice=54A2&genericId=11208009&limit=100&resultPosition=5&searchBrand=vs&searchedFor=bras",
+			"family": "Very Sexy",
+			"name": "Shine Strap Push-Up Bra",
+			"rating": 3.98,
+			"totalReviewCount": 322,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/3f/25/3f25ae3962eb403da29c875e17c41bfe/1114466754A2_OM_F.jpg",
+			"price": "$69.95"
 		},
 		{
-			"name": "Shiny Strap",
-			"price": "19$",
+			"id": "5000008468",
+			"url": "https://www.victoriassecret.com/us/vs/bras-catalog/5000008468?choice=54A2&genericId=11200762&limit=100&resultPosition=6&searchBrand=vs&searchedFor=bras",
+			"family": "Love Cloud",
+			"name": "Smooth Lightly Lined Demi Bra",
+			"rating": 4.46,
+			"totalReviewCount": 153,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/f1/f3/f1f3d3e37acb41e0b857e86e664721c4/1120076254A2_34DD_OM_F.jpg",
+			"price": "$49.95"
+		}
+	],
+	"redbras": [
+		{
+			"id": "5000000067",
+			"url": "https://www.victoriassecret.com/us/vs/bras-catalog/5000000067?choice=86Q4&genericId=11200925&limit=100&resultPosition=1&searchBrand=vs&searchedFor=red%20bra",
+			"family": "Victoria's Secret",
+			"name": "Sexy Tee Lacie Push-Up Bra",
+			"rating": 4.08,
+			"totalReviewCount": 394,
 			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/c6/b6/c6b611d8bd43499db069a53aa96d86f7/1120092586Q4_34DD_OM_F.jpg",
-			"url": ""
+			"price": "$39.95",
+			"salePrice": "$29.50"
+		},
+		{
+			"id": "5000008470",
+			"url": "https://www.victoriassecret.com/us/vs/bras-catalog/5000008470?choice=86Q4&genericId=11211803&limit=100&resultPosition=2&searchBrand=vs&searchedFor=red%20bra",
+			"family": "Very Sexy",
+			"name": "So Obsessed Wireless Push-Up Bra",
+			"rating": 4.26,
+			"totalReviewCount": 358,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/92/80/9280b6d19cfd4de590f305f63fe0118f/1121180386Q4_OM_F.jpg",
+			"price": "$49.95"
+		},
+		{
+			"id": "5000000022",
+			"url": "https://www.victoriassecret.com/us/vs/bras-catalog/5000000022?choice=86Q4&genericId=11208009&limit=100&resultPosition=3&searchBrand=vs&searchedFor=red%20bra",
+			"family": "Very Sexy",
+			"name": "Shine Strap Push-Up Bra",
+			"rating": 3.98,
+			"totalReviewCount": 322,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/f9/8e/f98eed26000847069fec349481889671/1114466786Q4_OM_F.jpg",
+			"price": "$69.95"
+		},
+		{
+			"id": "5000004528",
+			"url": "https://www.victoriassecret.com/us/vs/bras-catalog/5000004528?choice=86Q4&genericId=11184383&limit=100&resultPosition=4&searchBrand=vs&searchedFor=red%20bra",
+			"family": "Very Sexy",
+			"name": "So Obsessed Push-Up Bra",
+			"rating": 4.39,
+			"totalReviewCount": 84,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/21/96/2196e970f992487c85a7e14be849e216/1118438386Q4_OM_F.jpg",
+			"price": "$49.95"
 		}
 	],
-	"redbras": [{
-		"name": "Red T-Shirt Bra",
-		"price": "29.50$",
-		"imagePath": "https://www.victoriassecret.com/p/126x168/tif/10/5f/105f928ebcdf4e1c8b1aa3522beecfd2/1118862954A2_34DD_OM_F.jpg",
-		"url": "https://www.victoriassecret.com/us/vs/bras-catalog/5000000066?choice=54A2&genericId=11200918&limit=100&resultPosition=2&searchBrand=vs&searchedFor=T-shirt%20bra"
-	},
-	{
-		"name": "Red Sexy Tee Lacie",
-		"price": "22$",
-		"imagePath": "https://www.victoriassecret.com/p/126x168/tif/9b/0b/9b0bd637bde0415cac36609e6393c9bf/1117408252A0_OM_F.jpg",
-		"url": ""
-	},
-	{
-		"name": "Red Love Cloud",
-		"price": "50$",
-		"imagePath": "https://www.victoriassecret.com/p/126x168/tif/ce/2e/ce2eb480fc6a4d12b53ab9f363bdd82c/111888515OTW_OM_F.jpg",
-		"url": ""
-	},
-	{
-		"name": "Red Shiny Strap",
-		"price": "19$",
-		"imagePath": "https://www.victoriassecret.com/p/126x168/tif/c6/b6/c6b611d8bd43499db069a53aa96d86f7/1120092586Q4_34DD_OM_F.jpg",
-		"url": ""
-	}
-	],
-	"panties": [{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+	"panties": [
+		{
+			"id": "5000000028",
+			"url": "https://www.victoriassecret.com/us/vs/panties-catalog/5000000028?choice=54A2&genericId=11160742&limit=100&resultPosition=1&searchBrand=vs&searchedFor=panties",
+			"family": "Victoria's Secret",
+			"name": "Stretch Cotton High Leg Brief Panty",
+			"rating": 4.24,
+			"totalReviewCount": 509,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/7b/f1/7bf1e35ccc824960b088b3212f743c5c/1116074254A2_OM_F.jpg",
+			"price": "$10.50"
 		},
 		{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+			"id": "5000005193",
+			"url": "https://www.victoriassecret.com/us/vs/panties-catalog/5000005193?choice=54A2&genericId=11128877&limit=100&resultPosition=2&searchBrand=vs&searchedFor=panties",
+			"family": "Sexy Illusions by Victoria's Secret",
+			"name": "No-Show Thong Panty",
+			"rating": 3.54,
+			"totalReviewCount": 154,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/9a/1c/9a1ce1308cec4eb39ed42854893e7380/1112887754A2_OM_F.jpg",
+			"price": "$10.50"
 		},
 		{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+			"id": "5000004431",
+			"url": "https://www.victoriassecret.com/us/vs/panties-catalog/5000004431?choice=5QW6&genericId=11146101&limit=100&resultPosition=3&searchBrand=vs&searchedFor=panties",
+			"family": "The Lacie",
+			"name": "Lacie Thong Panty",
+			"rating": 4.31,
+			"totalReviewCount": 97,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/e3/b8/e3b845ad50aa48a2a733ce220b593823/111461015QW6_OM_F.jpg",
+			"price": "$12.50"
 		},
 		{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+			"id": "5000005192",
+			"url": "https://www.victoriassecret.com/us/vs/panties-catalog/5000005192?choice=65H8&genericId=11128878&limit=100&resultPosition=4&searchBrand=vs&searchedFor=panties",
+			"family": "Sexy Illusions by Victoria's Secret",
+			"name": "No-Show Hiphugger Panty",
+			"rating": 3.88,
+			"totalReviewCount": 215,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/50/f0/50f086732da8410fb54f9939bb2ce2ce/401043DJ5_OM_F.jpg",
+			"price": "$12.50"
 		}
 	],
-	"lingerie": [{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+	"lingerie": [
+		{
+			"id": "5000008613",
+			"url": "https://www.victoriassecret.com/us/vs/sleepwear-and-lingerie-catalog/5000008613?choice=86Q4&genericId=11200754&limit=100&resultPosition=1&searchBrand=vs&searchedFor=lingerie",
+			"family": "Very Sexy",
+			"name": "Wicked La Fleur Open Back Babydoll",
+			"rating": 4.37,
+			"totalReviewCount": 19,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/12/a9/12a9d77c56e84918abd754bc1503283e/1120075486Q4_OM_F.jpg",
+			"price": "$89.95"
 		},
 		{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+			"id": "5000008341",
+			"url": "https://www.victoriassecret.com/us/vs/sleepwear-and-lingerie-catalog/5000008341?choice=34Y5&genericId=11185746&limit=100&resultPosition=2&searchBrand=vs&searchedFor=lingerie",
+			"family": "Very Sexy",
+			"name": "Pleated Babydoll",
+			"rating": 4.7,
+			"totalReviewCount": 20,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/46/fb/46fb41474af544c8b4c323005e6a5699/1118574634Y5_OM_F.jpg",
+			"price": "$59.95"
 		},
 		{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+			"id": "5000008696",
+			"url": "https://www.victoriassecret.com/us/vs/sleepwear-and-lingerie-catalog/5000008696?choice=54A2&genericId=11211554&limit=100&resultPosition=3&searchBrand=vs&searchedFor=lingerie",
+			"family": "Very Sexy",
+			"name": "Bombshell Fishnet Floral Teddy",
+			"rating": 4.04,
+			"totalReviewCount": 48,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/a4/48/a448516e84b348628f4a45c5dba71ca7/1121155454A2_OM_F.jpg",
+			"price": "$99.95"
 		},
 		{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+			"id": "1121003200",
+			"url": "https://www.victoriassecret.com/us/vs/sleepwear-and-lingerie-catalog/1121003200?choice=2Y3B&genericId=11210032&limit=100&resultPosition=4&searchBrand=vs&searchedFor=lingerie",
+			"family": "Very Sexy",
+			"name": "Shine Strap Lace Teddy with Garters",
+			"rating": 5,
+			"totalReviewCount": 4,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/c7/45/c7459fad559d49198fb8972ab568bf7a/112100322Y3B_OM_F.jpg",
+			"price": "$99.95"
 		}
 	],
-	"vs": [{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+	"vs": [
+		{
+			"id": "5000000028",
+			"url": "https://www.victoriassecret.com/us/vs/panties-catalog/5000000028?choice=54A2&genericId=11160742&limit=100&resultPosition=1&searchBrand=vs&searchedFor=vs",
+			"family": "Victoria's Secret",
+			"name": "Stretch Cotton High Leg Brief Panty",
+			"rating": 4.24,
+			"totalReviewCount": 509,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/7b/f1/7bf1e35ccc824960b088b3212f743c5c/1116074254A2_OM_F.jpg",
+			"price": "$10.50"
 		},
 		{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+			"id": "5000000269",
+			"url": "https://www.victoriassecret.com/us/vs/panties-catalog/5000000269?choice=54A2&genericId=11181802&limit=100&resultPosition=2&searchBrand=vs&searchedFor=vs",
+			"family": "Seamless",
+			"name": "Seamless Bikini Panty",
+			"rating": 4.35,
+			"totalReviewCount": 308,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/5e/e9/5ee9b5d0b830407e98a9061b988e05e0/1118180254A2_OM_F.jpg",
+			"price": "$10.50"
 		},
 		{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+			"id": "5000000024",
+			"url": "https://www.victoriassecret.com/us/vs/panties-catalog/5000000024?choice=54A2&genericId=11160870&limit=100&resultPosition=3&searchBrand=vs&searchedFor=vs",
+			"family": "Victoria's Secret",
+			"name": "Stretch Cotton String Bikini Panty",
+			"rating": 4.27,
+			"totalReviewCount": 139,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/70/69/7069dda6cc9e46798e59c4cc9a1b4103/1116087054A2_OM_F.jpg",
+			"price": "$10.50"
 		},
 		{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+			"id": "5000008470",
+			"url": "https://www.victoriassecret.com/us/vs/bras-catalog/5000008470?choice=2Y3B&genericId=11211803&limit=100&resultPosition=4&searchBrand=vs&searchedFor=vs",
+			"family": "Very Sexy",
+			"name": "So Obsessed Wireless Push-Up Bra",
+			"rating": 4.26,
+			"totalReviewCount": 358,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/8e/8d/8e8db43cfe5a4d8c9bb9aa97f57970f3/112118032Y3B_OM_F.jpg",
+			"price": "$49.95"
 		}
 	],
-	"pink": [{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+	"pink": [
+		{
+			"id": "5000000028",
+			"url": "https://www.victoriassecret.com/us/vs/panties-catalog/5000000028?choice=5NZO&genericId=11160742&limit=100&resultPosition=1&searchBrand=vs&searchedFor=pink",
+			"family": "Victoria's Secret",
+			"name": "Stretch Cotton High Leg Brief Panty",
+			"rating": 4.24,
+			"totalReviewCount": 509,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/6b/73/6b73f9d85c8d47b7ba5af052dd1388cc/111607425NZO_OM_F.jpg",
+			"price": "$10.50"
 		},
 		{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+			"id": "5000005193",
+			"url": "https://www.victoriassecret.com/us/vs/panties-catalog/5000005193?choice=00T6&genericId=11128877&limit=100&resultPosition=2&searchBrand=vs&searchedFor=pink",
+			"family": "Sexy Illusions by Victoria's Secret",
+			"name": "No-Show Thong Panty",
+			"rating": 3.54,
+			"totalReviewCount": 154,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/d3/91/d39171f0c0fc4d578382e94b4417b3cd/1112887700T6_OM_F.jpg",
+			"price": "$12.50"
 		},
 		{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+			"id": "5000004431",
+			"url": "https://www.victoriassecret.com/us/vs/panties-catalog/5000004431?choice=15T0&genericId=11146101&limit=100&resultPosition=3&searchBrand=vs&searchedFor=pink",
+			"family": "The Lacie",
+			"name": "Lacie Thong Panty",
+			"rating": 4.31,
+			"totalReviewCount": 97,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/3a/fa/3afadfb3e43d40c0b086f60177d6fcae/1114610115T0_OM_F.jpg",
+			"price": "$12.50"
 		},
 		{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+			"id": "5000000083",
+			"url": "https://www.victoriassecret.com/us/vs/panties-catalog/5000000083?choice=5R08&genericId=11150609&limit=100&resultPosition=4&searchBrand=vs&searchedFor=pink",
+			"family": "Victoria's Secret",
+			"name": "Lace Waist Cotton Cheeky Panty",
+			"rating": 4.54,
+			"totalReviewCount": 143,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/9b/6f/9b6f95ba9e15411998b4d3777c2889a5/111506095R08_OM_F.jpg",
+			"price": "$12.50"
 		}
 	],
-	"beauty": [{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+	"beauty": [
+		{
+			"id": "1119569100",
+			"url": "https://www.victoriassecret.com/us/beauty/beauty-catalog/1119569100?choice=5RI8&genericId=11195691&limit=100&resultPosition=1&searchBrand=vs&searchedFor=beauty",
+			"family": "Victoria's Secret",
+			"name": "Cozy Plush Fleece Heart Blanket",
+			"rating": 4.26,
+			"totalReviewCount": 34,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/58/c9/58c98d7ac41b4053a9021e6ff87c92dc/111956915RI8_OF_F.jpg",
+			"price": "$68",
+			"salePrice": "$25.00"
 		},
 		{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+			"id": "5000006604",
+			"url": "https://www.victoriassecret.com/us/beauty/beauty-catalog/5000006604?choice=8527&genericId=11204717&limit=100&resultPosition=2&searchBrand=vs&searchedFor=beauty",
+			"family": "Body Care",
+			"name": "Fragrance Mist",
+			"rating": 4.56,
+			"totalReviewCount": 331,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/90/25/9025b38eedf9496e80d73c80639108bf/112047178527_OF_F.jpg",
+			"price": "$19.95"
 		},
 		{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+			"id": "1120042200",
+			"url": "https://www.victoriassecret.com/us/beauty/beauty-catalog/1120042200?choice=8581&genericId=11200422&limit=100&resultPosition=3&searchBrand=vs&searchedFor=beauty",
+			"family": "Body Care",
+			"name": "Body Mist",
+			"rating": 4.58,
+			"totalReviewCount": 106,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/74/f5/74f57e2da3114fb1bdc6376c41e8263a/112004228581_OF_F.jpg",
+			"price": "$17.95"
 		},
 		{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+			"id": "1120662900",
+			"url": "https://www.victoriassecret.com/us/beauty/beauty-catalog/1120662900?choice=0086&genericId=11206629&limit=100&resultPosition=4&searchBrand=vs&searchedFor=beauty",
+			"family": "Body Care",
+			"name": "The Ultimate Mist Exploration",
+			"rating": 4.95,
+			"totalReviewCount": 19,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/62/a0/62a0d12cde2f4fe181f6549f4e4f83ce/112066290086_OM_F.jpg",
+			"price": "$79.95",
+			"salePrice": "$39.99"
 		}
 	],
-	"sleepwear": [{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+	"sleepwear": [
+		{
+			"id": "5000000360",
+			"url": "https://www.victoriassecret.com/us/vs/sleepwear-and-lingerie-catalog/5000000360?choice=5NMM&genericId=11192933&limit=100&resultPosition=1&searchBrand=vs&searchedFor=sleepwear",
+			"family": "Victoria's Secret",
+			"name": "Flannel Long Pajama Set",
+			"rating": 4.26,
+			"totalReviewCount": 415,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/d8/aa/d8aa16abf48d4871aae302124cf083d8/111929335NMM_OM_F.jpg",
+			"price": "$59.95",
+			"salePrice": "$22.99"
 		},
 		{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+			"id": "5000000056",
+			"url": "https://www.victoriassecret.com/us/vs/sleepwear-and-lingerie-catalog/5000000056?choice=5ONO&genericId=11211016&limit=100&resultPosition=2&searchBrand=vs&searchedFor=sleepwear",
+			"family": "Victoria's Secret",
+			"name": "Thermal Long Pajama Set",
+			"rating": 4.38,
+			"totalReviewCount": 163,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/80/59/80592600b245458e9859bf87fba85696/112110165ONO_OM_F.jpg",
+			"price": "$59.95"
 		},
 		{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+			"id": "5000007337",
+			"url": "https://www.victoriassecret.com/us/vs/sleepwear-and-lingerie-catalog/5000007337?choice=53A5&genericId=11172240&limit=100&resultPosition=3&searchBrand=vs&searchedFor=sleepwear",
+			"family": "Victoria's Secret",
+			"name": "Modal Long Pajama Set",
+			"rating": 4.57,
+			"totalReviewCount": 204,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/66/98/6698cc03d70147fda71a4ec395edfa7d/1117224053A5_OM_F.jpg",
+			"price": "$69.95"
 		},
 		{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+			"id": "5000003357",
+			"url": "https://www.victoriassecret.com/us/vs/sleepwear-and-lingerie-catalog/5000003357?choice=5NNA&genericId=11205877&limit=100&resultPosition=4&searchBrand=vs&searchedFor=sleepwear",
+			"family": "Victoria's Secret",
+			"name": "Flannel Tee-jama Set",
+			"rating": 4.28,
+			"totalReviewCount": 184,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/df/46/df469cc4d8f345359cbcb795489262e1/112058775NNA_OM_F.jpg",
+			"price": "$49.95"
 		}
 	],
-	"valentine": [{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+	"valentine": [
+		{
+			"id": "1120081500",
+			"url": "https://www.victoriassecret.com/us/vs/panties-catalog/1120081500?choice=72Q0&genericId=11200815&limit=100&resultPosition=1&searchBrand=vs&searchedFor=valentine",
+			"family": "For Love & Lemons",
+			"name": "V-Day Floral Embroidery Garter Belt",
+			"rating": 4.5,
+			"totalReviewCount": 2,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/11/8f/118fd666c61f4cc19758f52344efb1ed/1120081572Q0_OM_F.jpg",
+			"price": "$59",
+			"salePrice": "$21.99"
 		},
 		{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+			"id": "5000006993",
+			"url": "https://www.victoriassecret.com/us/pink/sleepwear-catalog/5000006993?choice=5RUO&genericId=11185571&limit=100&resultPosition=2&searchBrand=vs&searchedFor=valentine",
+			"family": "PINK",
+			"name": "Flannel Boxy Pajama Shorts",
+			"rating": 4.52,
+			"totalReviewCount": 113,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/b0/6c/b06ceb1e196f45ef989f6a008eb32df8/111855715RUO_OM_F.jpg",
+			"price": "$24.95"
 		},
 		{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+			"id": "5000008572",
+			"url": "https://www.victoriassecret.com/us/pink/sleepwear-catalog/5000008572?choice=5RUO&genericId=11207936&limit=100&resultPosition=3&searchBrand=vs&searchedFor=valentine",
+			"family": "PINK",
+			"name": "Flannel Pajama Pants",
+			"rating": 4.04,
+			"totalReviewCount": 55,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/3a/38/3a38f2b07c4a4948b61fdbb74d673ce8/S23_PK_025_0141_CRM.jpg",
+			"price": "$34.95"
 		},
 		{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+			"id": "5000006097",
+			"url": "https://www.victoriassecret.com/us/pink/bras-catalog/5000006097?choice=5SYQ&genericId=11200256&limit=100&resultPosition=4&searchBrand=vs&searchedFor=valentine",
+			"family": "PINK",
+			"name": "Wear Everywhere Wireless Lightly Lined Bra",
+			"rating": 3.62,
+			"totalReviewCount": 165,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/84/3e/843e2b8379704218a57a31b718062b8d/112002565SYQ_OM_F.jpg",
+			"price": "$36.95"
 		}
 	],
-	"gifts": [{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+	"gifts": [
+		{
+			"id": "5000008198",
+			"url": "https://www.victoriassecret.com/us/vs/accessories-catalog/5000008198?choice=54A2&genericId=11191443&limit=100&resultPosition=1&searchBrand=vs&searchedFor=gifts",
+			"family": "Victoria's Secret",
+			"name": "Closed Toe Faux Fur Slipper",
+			"rating": 4.52,
+			"totalReviewCount": 131,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/cf/70/cf70881eb2ba49dab0e636d7c663a279/1119144354A2_OF_F.jpg",
+			"price": "$39.95"
 		},
 		{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+			"id": "5000006142",
+			"url": "https://www.victoriassecret.com/us/vs/gift-cards-catalog/5000006142?choice=02A1&genericId=70008333&limit=100&resultPosition=3&searchBrand=vs&searchedFor=gifts",
+			"family": "Victoria's Secret",
+			"name": "VS Gift Card",
+			"totalReviewCount": 0,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/c6/aa/c6aad6a40d964db8ae5d08a87e00b01c/V608873.jpg",
+			"price": ""
 		},
 		{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+			"id": "1120807900",
+			"url": "https://www.victoriassecret.com/us/beauty/beauty-catalog/1120807900?choice=0086&genericId=11208079&limit=100&resultPosition=10&searchBrand=vs&searchedFor=gifts",
+			"family": "Body Care",
+			"name": "Warm & Cozy Mug",
+			"rating": 5,
+			"totalReviewCount": 4,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/61/64/6164cb0c643e4636ad42a720998fec97/112080790086_OF_F.jpg",
+			"price": "$40"
 		},
 		{
-			"name": "",
-			"price": "",
-			"imagePath": "",
-			"url": ""
+			"id": "5000008593",
+			"url": "https://www.victoriassecret.com/us/beauty/beauty-catalog/5000008593?choice=2457&genericId=11208391&limit=100&resultPosition=18&searchBrand=vs&searchedFor=gifts",
+			"family": "Fine Fragrance",
+			"name": "Bombshell Mini Fragrance Duo",
+			"rating": 4.51,
+			"totalReviewCount": 47,
+			"imagePath": "https://www.victoriassecret.com/p/126x168/tif/2d/b7/2db7191be4eb4e56a1bf98b28d5e6d69/112083912457_OF_F.jpg",
+			"price": "$35"
 		}
 	]
 }
