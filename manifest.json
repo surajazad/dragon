@@ -1,0 +1,24 @@
+{
+    "name": "VS&Co Genie",
+    "description": "The advance extension",
+    "version": "1.0",
+    "manifest_version": 3,
+    "icons": {
+      "16": "images/VS&CO.png",
+      "32": "images/VS&CO.png",
+      "48": "images/VS&CO.png",
+      "128": "images/VS&CO.png"
+    },
+    "background": {
+        "service_worker": "background.js"
+    },
+    "content_scripts": [
+        {
+          "matches": ["https://*/*", "https://*/*"],
+          "js": ["content.js"]
+        }
+    ],
+    "action": {
+      "default_popup": "main.html"
+    }
+  }
