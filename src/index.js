@@ -1,5 +1,6 @@
 import data from './assets/data.json';
 
+// Function to create product cards
 function createProductCard(cards) {
 
     // create main div
@@ -25,7 +26,7 @@ function createProductCard(cards) {
         );
         anchor.setAttribute("target", '_blank');
         anchor.className = 'product-link';
-        anchor.innerText = "Victoria Secret's";
+        anchor.innerText = element.family;
         container.appendChild(anchor);
 
         // update product name
@@ -39,6 +40,12 @@ function createProductCard(cards) {
         price.className = "product-price";
         price.innerHTML = element.price;
         container.appendChild(price);
+
+        // update product rating
+        let rating = document.createElement("span");
+        rating.className = 'product-rating';
+        rating.innerHTML = `${element.rating} (${element.totalReviewCount} Reviews)`;
+        container.appendChild(rating);
         
         // append the list back to main div
         productList.appendChild(container);
@@ -46,14 +53,29 @@ function createProductCard(cards) {
     });
   }
 
-  // get the query param provided to the iframe url
+// get the query param provided to the iframe url
 const urlSearchParams = new URLSearchParams(window.location.search);
 const params = Object.fromEntries(urlSearchParams.entries());
 const searchQuery = params.q || params.oq || "bras";
 console.log(searchQuery);
+
+// To print serach category
+const category = document.getElementById('product-category');
+category.innerHTML = `${searchQuery} on Victoria's Secet`;
+
+// Discover More Link to collection page
+const collectionPageLink = document.getElementById("more-items");
+collectionPageLink.setAttribute( "href", `https://www.victoriassecret.com/us/vs/${searchQuery}`);
+collectionPageLink.setAttribute("target", "_blank");
 
 // make an api call to search service, for now getting this from data.json for development
 const products = data[searchQuery];
 
 // create cards from search results
 createProductCard(products);
+
+// Close window on click of X button
+const button = document.querySelector("button");
+button.addEventListener("click", async () => {
+  window.close();
+});

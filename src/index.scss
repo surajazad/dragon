@@ -1,6 +1,17 @@
-h1 {
-    span {
-        color: green;
+body {
+    border: 4px solid #f4c6cf;
+    border-radius: 3px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+    .main-container {
+        background: white;
+        padding-bottom: 20px;
+    }
+
+    .close-window {
+        border: none;
+        background-color:  #f4c6cf;
+        cursor: pointer;
     }
 }
 
@@ -8,36 +19,72 @@ h1 {
     margin-right: 4px;
 }
 
+.page-title {
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+    align-items: center;
+    background-color: #f4c6cf;
+    padding: 0 12px;
+}
+
 .product-list {
     display: flex;
-    padding: 8px;
+    margin: 8px;
     overflow: scroll;
     background-color: #ffffff;
+}
+
+#product-category {
+    padding: 8px 8px 0;
+    font-size: 14px;
+    line-height: 20px;
+
+    font-family: BentonSans,Helvetica,Arial,sans-serif;
+    color: #221d1d;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(96, 88, 88);
+    font-weight: 400;
+    font-family: BentonSans,Helvetica,Arial,sans-serif;
+    font-size: 12px;
+    line-height: 20px;
+    letter-spacing: 0.04em;
 }
 
 span {
     color: #221d1d;
     font-weight: 200;
     font-family: BentonSans,Helvetica,Arial,sans-serif;
-    font-size: 8px;
-    line-height: 12px;
+    font-size: 12px;
+    line-height: 20px;
     letter-spacing: 0.04em;
     display: block;
 }
 
 .product-image {
-    height: 130px;
     background-color: #F7F7F8;
     font-size: x-small;
+    width: 150px;
+}
+
+.discover-button {
+    text-align: center;
+    .more-items {
+        background-color: #f4c6cf;
+        border-color: #f4c6cf;
+        height: 30px;
+        border-radius: 5px;
+        padding-bottom: 5px;
+        margin-top: 6px;
+        cursor: pointer;
+    }
 }
 
 .product-price {
-    font-weight: 700;
-    margin-bottom: 4px;
-    color: #605858;
-}
-
-.product-name {
-    color: #221d1d;
+    font-weight: 600;
+    margin: 2px 0;
 }
 
