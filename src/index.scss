@@ -1,5 +1,5 @@
 body {
-    border: 4px solid #f4c6cf;
+    border: 6px solid  rgb(249, 226, 231);
     border-radius: 3px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
@@ -10,7 +10,7 @@ body {
 
     .close-window {
         border: none;
-        background-color:  #f4c6cf;
+        background-color:   rgb(249, 226, 231);
         cursor: pointer;
     }
 }
@@ -24,7 +24,7 @@ body {
     justify-content: space-between;
     height: 40px;
     align-items: center;
-    background-color: #f4c6cf;
+    background-color:  rgb(249, 226, 231);
     padding: 0 12px;
 }
 
@@ -74,9 +74,9 @@ span {
 .discover-button {
     text-align: center;
     .more-items {
-        background-color: #f4c6cf;
-        border-color: #f4c6cf;
-        height: 26px;
+        background-color:  rgb(249, 226, 231);
+        border-color:  rgb(249, 226, 231);
+        height: 30px;
         border-radius: 5px;
         padding-bottom: 2px;
         margin-top: 4px;

@@ -56,7 +56,7 @@ function createProductCard(cards) {
 // get the query param provided to the iframe url
 const urlSearchParams = new URLSearchParams(window.location.search);
 const params = Object.fromEntries(urlSearchParams.entries());
-const searchQuery = params.q || params.oq || "bras";
+const searchQuery = params.q || params.oq || "beauty";
 console.log(searchQuery);
 
 // To print serach category
@@ -65,7 +65,8 @@ category.innerHTML = `${searchQuery} on Victoria's Secet`;
 
 // Discover More Link to collection page
 const collectionPageLink = document.getElementById("more-items");
-collectionPageLink.setAttribute( "href", `https://www.victoriassecret.com/us/vs/${searchQuery}`);
+const cLink = `https://www.victoriassecret.com/us/vs/${searchQuery}` || 'https://www.victoriassecret.com/us/vs/bras';
+collectionPageLink.setAttribute( "href", cLink);
 collectionPageLink.setAttribute("target", "_blank");
 
 // make an api call to search service, for now getting this from data.json for development
