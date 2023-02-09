@@ -78,7 +78,7 @@ createProductCard(products);
 // Close window on click of X button
 const button = document.querySelector("button");
 button.addEventListener("click", async () => {
-  var iframe=document.getElementById("vsco-iframe");
+  var iframe=document.getElementById("vs-iframe");
    iframe.parent.removeChild(iframe);
    console.log("removed iframe");
 });
